@@ -1,5 +1,5 @@
 # blood-presure-bot
-This bot can help you monitor your blood presure avery day
+This bot can help you monitor your blood presure every day
 
 ## Instalation
 * pip install pandas
